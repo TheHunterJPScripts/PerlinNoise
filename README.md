@@ -1,8 +1,7 @@
 # PerlinNoise
 
-![](https://img.itch.zone/aW1hZ2UvNDQ2MTEzLzIyNTY5MTIucG5n/347x500/zIDpq3.png)
-
-![](https://img.itch.zone/aW1hZ2UvNDQ2MTEzLzIyNTY5MTEucG5n/347x500/U9Dr0c.png)
+![](https://i.gyazo.com/d793d4791c43ad515c73158668425d3d.png)
+![](https://i.gyazo.com/d793d4791c43ad515c73158668425d3d.png)
 
 ## How to use:
 * Download the project or import the 5 scripts into your own project.
