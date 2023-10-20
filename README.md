@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/status-discontinued-red)
+![](https://img.shields.io/badge/status-finished-green)
 # PerlinNoise
 
 ![](https://i.gyazo.com/d793d4791c43ad515c73158668425d3d.png)
